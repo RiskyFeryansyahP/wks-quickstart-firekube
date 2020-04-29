@@ -41,7 +41,7 @@ items:
   metadata:
     labels:
       set: worker
-    name: worker-1
+    name: worker-2
     namespace: weavek8sops
   spec:
     providerSpec:
