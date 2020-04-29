@@ -17,5 +17,5 @@ items:
           port: 22
         public:
           address: 54.169.61.142
-          port: 22
+          port: 2222
 kind: List
